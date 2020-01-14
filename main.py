@@ -5,7 +5,9 @@ from bs4 import BeautifulSoup
 import urllib.request
 from urllib.request import urlopen
 from urllib.parse import quote
+import csv
 
+Teams = ["AFC Bournemouth", "Arsenal","Aston Villa","Brighton & Hove Albion","Burnley","Chelsea","Crystal Palace","Everton","Leicester City","Liverpool","Manchester City","Manchester United","Newcastle United","Norwich City","Sheffield United","Southampton","Tottenham Hotspur","Watford","West Ham United","Wolverhampton Wanderers"]
 
 driver = webdriver.Chrome()
 driver.get('https://www.premierleague.com/players')
@@ -28,22 +30,33 @@ number_noimages=0
 
 teams=[]
 
+
 for link in links:
     updated_link = 'https:'+quote(link)
     try:
-        grab_image(updated_link, str(number_images))
-        number_images+=1
-        club = get_club(updated_link)
+        #GRAB IMAGE BUT ONLY IF NOT A GOALIE
+        player_number = grab_image(updated_link, str(number_images))
+        if player_number != None:
+            #IF NOT A GOALIE, GET THE CLUB AND ADD IT TO THE LIST
+            club = get_club(updated_link)
+            teams.append([number_images , club])
+            number_images+=1
         print(updated_link)
         print(club)
-        teams.append(club)
-    except: 
-        print(print(updated_link))
+        if player_number == None:
+            print('Goalie!')
+
+
+    except:
+        print(updated_link)
         print('No Image/Club ' + str(number_noimages))
         number_noimages+=1
-    
 
-print(teams[10])
-print(teams[100])
-print(teams[200])
+with open('returns.csv', 'w') as f:
+    writer = csv.writer(f,lineterminator = '\n')
+    for val in teams:
+        writer.writerow([val[0],val[1]])
 
+#print(teams[10])
+#print(teams[100])
+#print(teams[200])
