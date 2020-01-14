@@ -22,11 +22,10 @@ for link in soup.findAll('a', {'class': 'playerName'}):
     except KeyError:
         pass
 
-print(links)
 print(len(links))
 
 number_images = 0
-number_noimages=0
+
 
 teams=[]
 
@@ -41,19 +40,13 @@ for link in links:
             club = get_club(updated_link)
             teams.append([number_images , club])
             number_images+=1
-        print(updated_link)
-        print(club)
-        if player_number == None:
-            print('Goalie!')
+            print(number_images)
 
-
-    except:
-        print(updated_link)
-        print('No Image/Club ' + str(number_noimages))
-        number_noimages+=1
+    except: pass
 
 with open('returns.csv', 'w') as f:
     writer = csv.writer(f,lineterminator = '\n')
+    writer.writerow(['id','team'])
     for val in teams:
         writer.writerow([val[0],val[1]])
 

@@ -1,0 +1,1110 @@
+id,team
+0,Norwich-City
+1,Chelsea
+2,Chelsea
+3,Bournemouth
+4,Southampton
+5,Everton
+6,Aston-Villa
+7,Leicester-City
+8,Wolverhampton-Wanderers
+9,Manchester-City
+10,Burnley
+11,Aston-Villa
+12,West-Ham-United
+13,Bournemouth
+14,Liverpool
+15,Leicester-City
+16,Tottenham-Hotspur
+17,Manchester-City
+18,Liverpool
+19,Burnley
+20,Newcastle-United
+21,Chelsea
+22,Brighton-and-Hove-Albion
+23,Leicester-City
+24,Everton
+25,West-Ham-United
+26,Wolverhampton-Wanderers
+27,Wolverhampton-Wanderers
+28,Arsenal
+29,Bournemouth
+30,Crystal-Palace
+31,Southampton
+32,Manchester-United
+33,Arsenal
+34,Manchester-City
+35,Brighton-and-Hove-Albion
+36,Aston-Villa
+37,Watford
+38,Manchester-City
+39,Watford
+40,Burnley
+41,Tottenham-Hotspur
+42,Tottenham-Hotspur
+43,Chelsea
+44,Brighton-and-Hove-Albion
+45,Everton
+46,Manchester-United
+47,Manchester-City
+48,Chelsea
+49,West-Ham-United
+50,Aston-Villa
+51,Brighton-and-Hove-Albion
+52,Southampton
+53,West-Ham-United
+54,Bournemouth
+55,Newcastle-United
+56,Arsenal
+57,Tottenham-Hotspur
+58,Crystal-Palace
+59,Leicester-City
+60,Chelsea
+61,Newcastle-United
+62,Manchester-United
+63,Everton
+64,Chelsea
+65,Chelsea
+66,West-Ham-United
+67,Sheffield-United
+68,Brighton-and-Hove-Albion
+69,Everton
+70,Brighton-and-Hove-Albion
+71,Burnley
+72,Chelsea
+73,Burnley
+74,Sheffield-United
+75,Chelsea
+76,Wolverhampton-Wanderers
+77,Liverpool
+78,Southampton
+79,Arsenal
+80,Leicester-City
+81,Leicester-City
+82,Wolverhampton-Wanderers
+83,Wolverhampton-Wanderers
+84,Burnley
+85,Crystal-Palace
+86,Manchester-City
+87,Everton
+88,Brighton-and-Hove-Albion
+89,Manchester-City
+90,Southampton
+91,Sheffield-United
+92,Bournemouth
+93,Brighton-and-Hove-Albion
+94,Manchester-United
+95,Arsenal
+96,Everton
+97,Wolverhampton-Wanderers
+98,Brighton-and-Hove-Albion
+99,Southampton
+100,Tottenham-Hotspur
+101,Liverpool
+102,Seattle-Sounders-FC
+103,Burnley
+104,Aston-Villa
+105,Liverpool
+106,Watford
+107,Bournemouth
+108,Brighton-and-Hove-Albion
+109,Sheffield-United
+110,Norwich-City
+111,Brighton-and-Hove-Albion
+112,Arsenal
+113,Bournemouth
+114,Norwich-City
+115,Bournemouth
+116,Everton
+117,Crystal-Palace
+118,Wolverhampton-Wanderers
+119,Norwich-City
+120,Watford
+121,West-Ham-United
+122,Southampton
+123,Aston-Villa
+124,Tottenham-Hotspur
+125,Newcastle-United
+126,Watford
+127,Wolverhampton-Wanderers
+128,Southampton
+129,Arsenal
+130,Aston-Villa
+131,Leicester-City
+132,Liverpool
+133,Manchester-United
+134,Leicester-City
+135,Chelsea
+136,Liverpool
+137,Aston-Villa
+138,Liverpool
+139,Southampton
+140,Liverpool
+141,Watford
+142,Liverpool
+143,Wolverhampton-Wanderers
+144,Brighton-and-Hove-Albion
+145,Newcastle-United
+146,Everton
+147,Brighton-and-Hove-Albion
+148,Brighton-and-Hove-Albion
+149,Wolverhampton-Wanderers
+150,Burnley
+151,Sheffield-United
+152,West-Ham-United
+153,Sheffield-United
+154,West-Ham-United
+155,Burnley
+156,Everton
+157,West-Ham-United
+158,Wolverhampton-Wanderers
+159,Wolverhampton-Wanderers
+160,Arsenal
+161,Bournemouth
+162,Crystal-Palace
+163,Southampton
+164,Manchester-United
+165,Arsenal
+166,Manchester-City
+167,Brighton-and-Hove-Albion
+168,Aston-Villa
+169,Watford
+170,Manchester-City
+171,Watford
+172,Burnley
+173,Tottenham-Hotspur
+174,Everton
+175,Tottenham-Hotspur
+176,Manchester-City
+177,Wolverhampton-Wanderers
+178,Watford
+179,Leicester-City
+180,Newcastle-United
+181,West-Ham-United
+182,Tottenham-Hotspur
+183,Everton
+184,Manchester-United
+185,Wolverhampton-Wanderers
+186,Manchester-City
+187,West-Ham-United
+188,Liverpool
+189,Southampton
+190,Bournemouth
+191,Wolverhampton-Wanderers
+192,Watford
+193,Watford
+194,Aston-Villa
+195,Manchester-City
+196,Crystal-Palace
+197,Aston-Villa
+198,Norwich-City
+199,Brighton-and-Hove-Albion
+200,Newcastle-United
+201,Liverpool
+202,Brighton-and-Hove-Albion
+203,Arsenal
+204,Sheffield-United
+205,Aston-Villa
+206,Leicester-City
+207,Liverpool
+208,Aston-Villa
+209,Chelsea
+210,Aston-Villa
+211,Wolverhampton-Wanderers
+212,Wolverhampton-Wanderers
+213,Manchester-City
+214,Tottenham-Hotspur
+215,Leicester-City
+216,Tottenham-Hotspur
+217,Liverpool
+218,West-Ham-United
+219,West-Ham-United
+220,Newcastle-United
+221,Manchester-City
+222,Leicester-City
+223,Southampton
+224,Sheffield-United
+225,Manchester-City
+226,West-Ham-United
+227,Manchester-United
+228,Watford
+229,Tottenham-Hotspur
+230,Bournemouth
+231,Bournemouth
+232,Manchester-United
+233,West-Ham-United
+234,Leicester-City
+235,Southampton
+236,Manchester-City
+237,Arsenal
+238,Liverpool
+239,Everton
+240,Manchester-United
+241,West-Bromwich-Albion
+242,Everton
+243,Tottenham-Hotspur
+244,Leicester-City
+245,Wolverhampton-Wanderers
+246,Burnley
+247,Wolverhampton-Wanderers
+248,Chelsea
+249,Norwich-City
+250,Liverpool
+251,West-Ham-United
+252,Everton
+253,Bournemouth
+254,Leicester-City
+255,Aston-Villa
+256,Aston-Villa
+257,Manchester-United
+258,Brighton-and-Hove-Albion
+259,Liverpool
+260,Arsenal
+261,Everton
+262,Aston-Villa
+263,Manchester-City
+264,Brighton-and-Hove-Albion
+265,Brighton-and-Hove-Albion
+266,West-Ham-United
+267,West-Ham-United
+268,Manchester-United
+269,Norwich-City
+270,Bournemouth
+271,Manchester-City
+272,Aston-Villa
+273,Newcastle-United
+274,Chelsea
+275,Norwich-City
+276,Wolverhampton-Wanderers
+277,Brighton-and-Hove-Albion
+278,Burnley
+279,Norwich-City
+280,Manchester-United
+281,Southampton
+282,Chelsea
+283,Liverpool
+284,Southampton
+285,Liverpool
+286,Sheffield-United
+287,Arsenal
+288,Watford
+289,Everton
+290,West-Ham-United
+291,Aston-Villa
+292,Chelsea
+293,Watford
+294,West-Ham-United
+295,Manchester-City
+296,Norwich-City
+297,Aston-Villa
+298,Bournemouth
+299,Southampton
+300,Bournemouth
+301,Leicester-City
+302,Norwich-City
+303,Leicester-City
+304,Manchester-City
+305,Southampton
+306,Watford
+307,Chelsea
+308,Norwich-City
+309,Everton
+310,Brighton-and-Hove-Albion
+311,Sheffield-United
+312,Brighton-and-Hove-Albion
+313,Chelsea
+314,Watford
+315,Tottenham-Hotspur
+316,Aston-Villa
+317,Arsenal
+318,Brighton-and-Hove-Albion
+319,Everton
+320,Wolverhampton-Wanderers
+321,Watford
+322,West-Ham-United
+323,Newcastle-United
+324,Burnley
+325,Wolverhampton-Wanderers
+326,Sheffield-United
+327,Liverpool
+328,Wolverhampton-Wanderers
+329,Bournemouth
+330,Chelsea
+331,Newcastle-United
+332,Southampton
+333,Aston-Villa
+334,Leicester-City
+335,Watford
+336,Watford
+337,Crystal-Palace
+338,Chelsea
+339,Liverpool
+340,Chelsea
+341,Leicester-City
+342,Brighton-and-Hove-Albion
+343,Everton
+344,Everton
+345,Liverpool
+346,Bournemouth
+347,Newcastle-United
+348,Everton
+349,Liverpool
+350,Newcastle-United
+351,Sheffield-United
+352,Watford
+353,Wolverhampton-Wanderers
+354,Bournemouth
+355,Crystal-Palace
+356,Liverpool
+357,Norwich-City
+358,Leicester-City
+359,Aston-Villa
+360,Arsenal
+361,Aston-Villa
+362,Arsenal
+363,Liverpool
+364,Crystal-Palace
+365,Chelsea
+366,Newcastle-United
+367,Arsenal
+368,Sheffield-United
+369,Liverpool
+370,Tottenham-Hotspur
+371,Aston-Villa
+372,West-Ham-United
+373,Liverpool
+374,Newcastle-United
+375,Newcastle-United
+376,Leicester-City
+377,Norwich-City
+378,Newcastle-United
+379,Southampton
+380,Burnley
+381,Wolverhampton-Wanderers
+382,Bournemouth
+383,Leicester-City
+384,Liverpool
+385,Bournemouth
+386,Arsenal
+387,Manchester-United
+388,Manchester-United
+389,Tottenham-Hotspur
+390,Tottenham-Hotspur
+391,Brighton-and-Hove-Albion
+392,Chelsea
+393,Burnley
+394,Brighton-and-Hove-Albion
+395,Liverpool
+396,Everton
+397,Liverpool
+398,Burnley
+399,Tottenham-Hotspur
+400,Sheffield-United
+401,Watford
+402,Sheffield-United
+403,Tottenham-Hotspur
+404,Chelsea
+405,Leicester-City
+406,Sheffield-United
+407,Manchester-United
+408,Bournemouth
+409,Manchester-City
+410,Arsenal
+411,Liverpool
+412,Newcastle-United
+413,Chelsea
+414,Brighton-and-Hove-Albion
+415,Watford
+416,Liverpool
+417,Wolverhampton-Wanderers
+418,Tottenham-Hotspur
+419,Manchester-United
+420,Watford
+421,West-Ham-United
+422,Manchester-United
+423,Manchester-United
+424,Liverpool
+425,Newcastle-United
+426,Brighton-and-Hove-Albion
+427,Arsenal
+428,Crystal-Palace
+429,Sheffield-United
+430,Crystal-Palace
+431,Chelsea
+432,Aston-Villa
+433,Sheffield-United
+434,Norwich-City
+435,Burnley
+436,Southampton
+437,Manchester-United
+438,Burnley
+439,Leicester-City
+440,Bournemouth
+441,Crystal-Palace
+442,Chelsea
+443,Crystal-Palace
+444,Liverpool
+445,Everton
+446,Liverpool
+447,Aston-Villa
+448,Everton
+449,Arsenal
+450,Southampton
+451,Liverpool
+452,Brighton-and-Hove-Albion
+453,Brighton-and-Hove-Albion
+454,Brighton-and-Hove-Albion
+455,Chelsea
+456,Leicester-City
+457,Norwich-City
+458,Sheffield-United
+459,Chelsea
+460,Sheffield-United
+461,Newcastle-United
+462,Brighton-and-Hove-Albion
+463,Leicester-City
+464,Arsenal
+465,Crystal-Palace
+466,Newcastle-United
+467,Southampton
+468,Arsenal
+469,Aston-Villa
+470,Watford
+471,Tottenham-Hotspur
+472,Arsenal
+473,Everton
+474,Tottenham-Hotspur
+475,West-Ham-United
+476,Liverpool
+477,Sheffield-United
+478,Sheffield-United
+479,Brighton-and-Hove-Albion
+480,Burnley
+481,Southampton
+482,West-Ham-United
+483,Bournemouth
+484,West-Ham-United
+485,Watford
+486,Chelsea
+487,Tottenham-Hotspur
+488,Liverpool
+489,Southampton
+490,Sheffield-United
+491,Brighton-and-Hove-Albion
+492,Manchester-City
+493,Liverpool
+494,West-Ham-United
+495,Liverpool
+496,Arsenal
+497,Chelsea
+498,Tottenham-Hotspur
+499,Norwich-City
+500,Chelsea
+501,Wolverhampton-Wanderers
+502,Watford
+503,Leicester-City
+504,Everton
+505,Arsenal
+506,Watford
+507,West-Ham-United
+508,Burnley
+509,Manchester-United
+510,Wolverhampton-Wanderers
+511,Leicester-City
+512,Watford
+513,Brighton-and-Hove-Albion
+514,Bournemouth
+515,Norwich-City
+516,Chelsea
+517,Crystal-Palace
+518,Brighton-and-Hove-Albion
+519,Liverpool
+520,Everton
+521,Southampton
+522,Manchester-United
+523,Southampton
+524,Southampton
+525,West-Ham-United
+526,Aston-Villa
+527,Norwich-City
+528,Leicester-City
+529,West-Ham-United
+530,Everton
+531,Bournemouth
+532,Crystal-Palace
+533,Newcastle-United
+534,Liverpool
+535,Liverpool
+536,Sheffield-United
+537,Burnley
+538,Sheffield-United
+539,Manchester-United
+540,Tottenham-Hotspur
+541,Newcastle-United
+542,Tottenham-Hotspur
+543,Wolverhampton-Wanderers
+544,Wolverhampton-Wanderers
+545,Chelsea
+546,Tottenham-Hotspur
+547,Newcastle-United
+548,Wolverhampton-Wanderers
+549,Newcastle-United
+550,Arsenal
+551,Crystal-Palace
+552,Crystal-Palace
+553,Wolverhampton-Wanderers
+554,Brighton-and-Hove-Albion
+555,Wolverhampton-Wanderers
+556,Manchester-City
+557,Manchester-City
+558,Watford
+559,Newcastle-United
+560,Brighton-and-Hove-Albion
+561,Crystal-Palace
+562,Everton
+563,Newcastle-United
+564,Watford
+565,Liverpool
+566,Sheffield-United
+567,Manchester-United
+568,Newcastle-United
+569,Liverpool
+570,Everton
+571,Everton
+572,Bournemouth
+573,Watford
+574,Tottenham-Hotspur
+575,Tottenham-Hotspur
+576,Southampton
+577,Leicester-City
+578,Southampton
+579,Arsenal
+580,West-Ham-United
+581,Arsenal
+582,Bournemouth
+583,Tottenham-Hotspur
+584,Crystal-Palace
+585,Leicester-City
+586,Brighton-and-Hove-Albion
+587,Norwich-City
+588,Bournemouth
+589,Bournemouth
+590,Sheffield-United
+591,Brighton-and-Hove-Albion
+592,Chelsea
+593,Newcastle-United
+594,Bournemouth
+595,Sheffield-United
+596,Liverpool
+597,Norwich-City
+598,Manchester-City
+599,Arsenal
+600,Bournemouth
+601,Bournemouth
+602,Brighton-and-Hove-Albion
+603,Crystal-Palace
+604,Tottenham-Hotspur
+605,Everton
+606,Aston-Villa
+607,Burnley
+608,Aston-Villa
+609,Norwich-City
+610,Leicester-City
+611,Leicester-City
+612,Arsenal
+613,Norwich-City
+614,Watford
+615,Crystal-Palace
+616,Chelsea
+617,West-Ham-United
+618,Arsenal
+619,Manchester-City
+620,Crystal-Palace
+621,Crystal-Palace
+622,Wolverhampton-Wanderers
+623,Aston-Villa
+624,Tottenham-Hotspur
+625,Brighton-and-Hove-Albion
+626,Norwich-City
+627,Manchester-United
+628,Leicester-City
+629,Southampton
+630,Wolverhampton-Wanderers
+631,Crystal-Palace
+632,Liverpool
+633,Liverpool
+634,Chelsea
+635,Leicester-City
+636,Aston-Villa
+637,Tottenham-Hotspur
+638,Southampton
+639,Everton
+640,Burnley
+641,Southampton
+642,Norwich-City
+643,Burnley
+644,Everton
+645,Manchester-City
+646,Tottenham-Hotspur
+647,Burnley
+648,Manchester-United
+649,Tottenham-Hotspur
+650,Burnley
+651,Southampton
+652,Sheffield-United
+653,Wolverhampton-Wanderers
+654,Brighton-and-Hove-Albion
+655,Watford
+656,Burnley
+657,Aston-Villa
+658,Burnley
+659,Aston-Villa
+660,Brighton-and-Hove-Albion
+661,Crystal-Palace
+662,Liverpool
+663,Leicester-City
+664,Newcastle-United
+665,Crystal-Palace
+666,Chelsea
+667,Arsenal
+668,Watford
+669,West-Ham-United
+670,Tottenham-Hotspur
+671,Burnley
+672,Liverpool
+673,Crystal-Palace
+674,Leicester-City
+675,West-Ham-United
+676,Arsenal
+677,West-Ham-United
+678,Newcastle-United
+679,Southampton
+680,Manchester-United
+681,West-Ham-United
+682,Crystal-Palace
+683,Chelsea
+684,Watford
+685,Norwich-City
+686,Manchester-City
+687,Manchester-City
+688,Chelsea
+689,Arsenal
+690,Arsenal
+691,Arsenal
+692,Arsenal
+693,Arsenal
+694,Arsenal
+695,Arsenal
+696,Arsenal
+697,Arsenal
+698,Arsenal
+699,Arsenal
+700,Arsenal
+701,Arsenal
+702,Arsenal
+703,Arsenal
+704,Arsenal
+705,Arsenal
+706,Arsenal
+707,Arsenal
+708,Arsenal
+709,Arsenal
+710,Arsenal
+711,Arsenal
+712,Arsenal
+713,Arsenal
+714,Arsenal
+715,Arsenal
+716,Arsenal
+717,Arsenal
+718,Arsenal
+719,Aston Villa
+720,Aston Villa
+721,Aston Villa
+722,Aston Villa
+723,Aston Villa
+724,Aston Villa
+725,Aston Villa
+726,Aston Villa
+727,Aston Villa
+728,Aston Villa
+729,Aston Villa
+730,Aston Villa
+731,Aston Villa
+732,Aston Villa
+733,Aston Villa
+734,Aston Villa
+735,Aston Villa
+736,Aston Villa
+737,Aston Villa
+738,Aston Villa
+739,Aston Villa
+740,Aston Villa
+741,Aston Villa
+742,Aston Villa
+743,Aston Villa
+744,Aston Villa
+745,Aston Villa
+746,Aston Villa
+747,Aston Villa
+748,Aston Villa
+749,Burnley
+750,Burnley
+751,Burnley
+752,Burnley
+753,Burnley
+754,Burnley
+755,Burnley
+756,Burnley
+757,Burnley
+758,Burnley
+759,Burnley
+760,Burnley
+761,Burnley
+762,Burnley
+763,Burnley
+764,Burnley
+765,Burnley
+766,Burnley
+767,Burnley
+768,Burnley
+769,Burnley
+770,Burnley
+771,Burnley
+772,Burnley
+773,Burnley
+774,Burnley
+775,Burnley
+776,Burnley
+777,Burnley
+778,Burnley
+779,Chelsea
+780,Chelsea
+781,Chelsea
+782,Chelsea
+783,Chelsea
+784,Chelsea
+785,Chelsea
+786,Chelsea
+787,Chelsea
+788,Chelsea
+789,Chelsea
+790,Chelsea
+791,Chelsea
+792,Chelsea
+793,Chelsea
+794,Chelsea
+795,Chelsea
+796,Chelsea
+797,Chelsea
+798,Chelsea
+799,Chelsea
+800,Chelsea
+801,Chelsea
+802,Chelsea
+803,Chelsea
+804,Chelsea
+805,Chelsea
+806,Chelsea
+807,Chelsea
+808,Chelsea
+809,Crystal Palace
+810,Crystal Palace
+811,Crystal Palace
+812,Crystal Palace
+813,Crystal Palace
+814,Crystal Palace
+815,Crystal Palace
+816,Crystal Palace
+817,Crystal Palace
+818,Crystal Palace
+819,Crystal Palace
+820,Crystal Palace
+821,Crystal Palace
+822,Crystal Palace
+823,Crystal Palace
+824,Crystal Palace
+825,Crystal Palace
+826,Crystal Palace
+827,Crystal Palace
+828,Crystal Palace
+829,Crystal Palace
+830,Crystal Palace
+831,Crystal Palace
+832,Crystal Palace
+833,Crystal Palace
+834,Crystal Palace
+835,Crystal Palace
+836,Crystal Palace
+837,Crystal Palace
+838,Crystal Palace
+839,Everton
+840,Everton
+841,Everton
+842,Everton
+843,Everton
+844,Everton
+845,Everton
+846,Everton
+847,Everton
+848,Everton
+849,Everton
+850,Everton
+851,Everton
+852,Everton
+853,Everton
+854,Everton
+855,Everton
+856,Everton
+857,Everton
+858,Everton
+859,Everton
+860,Everton
+861,Everton
+862,Everton
+863,Everton
+864,Everton
+865,Everton
+866,Everton
+867,Everton
+868,Everton
+869,Leicester City
+870,Leicester City
+871,Leicester City
+872,Leicester City
+873,Leicester City
+874,Leicester City
+875,Leicester City
+876,Leicester City
+877,Leicester City
+878,Leicester City
+879,Leicester City
+880,Leicester City
+881,Leicester City
+882,Leicester City
+883,Leicester City
+884,Leicester City
+885,Leicester City
+886,Leicester City
+887,Leicester City
+888,Leicester City
+889,Leicester City
+890,Leicester City
+891,Leicester City
+892,Leicester City
+893,Leicester City
+894,Leicester City
+895,Leicester City
+896,Leicester City
+897,Leicester City
+898,Leicester City
+899,Liverpool
+900,Liverpool
+901,Liverpool
+902,Liverpool
+903,Liverpool
+904,Liverpool
+905,Liverpool
+906,Liverpool
+907,Liverpool
+908,Liverpool
+909,Liverpool
+910,Liverpool
+911,Liverpool
+912,Liverpool
+913,Liverpool
+914,Liverpool
+915,Liverpool
+916,Liverpool
+917,Liverpool
+918,Liverpool
+919,Liverpool
+920,Liverpool
+921,Liverpool
+922,Liverpool
+923,Liverpool
+924,Liverpool
+925,Liverpool
+926,Liverpool
+927,Liverpool
+928,Liverpool
+929,Sheffield United
+930,Sheffield United
+931,Sheffield United
+932,Sheffield United
+933,Sheffield United
+934,Sheffield United
+935,Sheffield United
+936,Sheffield United
+937,Sheffield United
+938,Sheffield United
+939,Sheffield United
+940,Sheffield United
+941,Sheffield United
+942,Sheffield United
+943,Sheffield United
+944,Sheffield United
+945,Sheffield United
+946,Sheffield United
+947,Sheffield United
+948,Sheffield United
+949,Sheffield United
+950,Sheffield United
+951,Sheffield United
+952,Sheffield United
+953,Sheffield United
+954,Sheffield United
+955,Sheffield United
+956,Sheffield United
+957,Sheffield United
+958,Sheffield United
+959,Southampton
+960,Southampton
+961,Southampton
+962,Southampton
+963,Southampton
+964,Southampton
+965,Southampton
+966,Southampton
+967,Southampton
+968,Southampton
+969,Southampton
+970,Southampton
+971,Southampton
+972,Southampton
+973,Southampton
+974,Southampton
+975,Southampton
+976,Southampton
+977,Southampton
+978,Southampton
+979,Southampton
+980,Southampton
+981,Southampton
+982,Southampton
+983,Southampton
+984,Southampton
+985,Southampton
+986,Southampton
+987,Southampton
+988,Southampton
+989,Tottenham Hotspur
+990,Tottenham Hotspur
+991,Tottenham Hotspur
+992,Tottenham Hotspur
+993,Tottenham Hotspur
+994,Tottenham Hotspur
+995,Tottenham Hotspur
+996,Tottenham Hotspur
+997,Tottenham Hotspur
+998,Tottenham Hotspur
+999,Tottenham Hotspur
+1000,Tottenham Hotspur
+1001,Tottenham Hotspur
+1002,Tottenham Hotspur
+1003,Tottenham Hotspur
+1004,Tottenham Hotspur
+1005,Tottenham Hotspur
+1006,Tottenham Hotspur
+1007,Tottenham Hotspur
+1008,Tottenham Hotspur
+1009,Tottenham Hotspur
+1010,Tottenham Hotspur
+1011,Tottenham Hotspur
+1012,Tottenham Hotspur
+1013,Tottenham Hotspur
+1014,Tottenham Hotspur
+1015,Tottenham Hotspur
+1016,Tottenham Hotspur
+1017,Tottenham Hotspur
+1018,Tottenham Hotspur
+1019,Watford
+1020,Watford
+1021,Watford
+1022,Watford
+1023,Watford
+1024,Watford
+1025,Watford
+1026,Watford
+1027,Watford
+1028,Watford
+1029,Watford
+1030,Watford
+1031,Watford
+1032,Watford
+1033,Watford
+1034,Watford
+1035,Watford
+1036,Watford
+1037,Watford
+1038,Watford
+1039,Watford
+1040,Watford
+1041,Watford
+1042,Watford
+1043,Watford
+1044,Watford
+1045,Watford
+1046,Watford
+1047,Watford
+1048,Watford
+1049,West Ham United
+1050,West Ham United
+1051,West Ham United
+1052,West Ham United
+1053,West Ham United
+1054,West Ham United
+1055,West Ham United
+1056,West Ham United
+1057,West Ham United
+1058,West Ham United
+1059,West Ham United
+1060,West Ham United
+1061,West Ham United
+1062,West Ham United
+1063,West Ham United
+1064,West Ham United
+1065,West Ham United
+1066,West Ham United
+1067,West Ham United
+1068,West Ham United
+1069,West Ham United
+1070,West Ham United
+1071,West Ham United
+1072,West Ham United
+1073,West Ham United
+1074,West Ham United
+1075,West Ham United
+1076,West Ham United
+1077,West Ham United
+1078,West Ham United
+1079,Wolverhampton Wanderers
+1080,Wolverhampton Wanderers
+1081,Wolverhampton Wanderers
+1082,Wolverhampton Wanderers
+1083,Wolverhampton Wanderers
+1084,Wolverhampton Wanderers
+1085,Wolverhampton Wanderers
+1086,Wolverhampton Wanderers
+1087,Wolverhampton Wanderers
+1088,Wolverhampton Wanderers
+1089,Wolverhampton Wanderers
+1090,Wolverhampton Wanderers
+1091,Wolverhampton Wanderers
+1092,Wolverhampton Wanderers
+1093,Wolverhampton Wanderers
+1094,Wolverhampton Wanderers
+1095,Wolverhampton Wanderers
+1096,Wolverhampton Wanderers
+1097,Wolverhampton Wanderers
+1098,Wolverhampton Wanderers
+1099,Wolverhampton Wanderers
+1100,Wolverhampton Wanderers
+1101,Wolverhampton Wanderers
+1102,Wolverhampton Wanderers
+1103,Wolverhampton Wanderers
+1104,Wolverhampton Wanderers
+1105,Wolverhampton Wanderers
+1106,Wolverhampton Wanderers
+1107,Wolverhampton Wanderers
+1108,Wolverhampton Wanderers
